@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'siliconwebapp3'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FC59F48E1D854668A843AD2E17FB16CE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_78F29FF75B9C46B9933CA1CB36456FD6 }}
           package: .
